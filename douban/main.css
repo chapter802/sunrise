@@ -1,0 +1,148 @@
+body, div, dl, dt, dd, ul, li, h1, h2, h3, h4, h5, h6, pre, code, form , fieldset, legend, input, button, textarea, blockquote, td, th {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: none;
+  padding: 0;
+  margin: 0;
+}
+fieldset, img{
+  border: 0;
+}
+address, caption, cite, code, dfn, em, i, strong, th, var, optgroup {
+  font-style: normal;
+  font-weight: normal;
+}
+ul, ol {
+  list-style: none;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+q:before, q:after {
+  content: "";
+}
+abbr, acronym {
+border: 0;
+font-variant: normal;
+}
+sup {
+  vertical-align: baseline;
+}
+sub {
+  vertical-align: baseline;
+}
+legend {
+  color: #000;
+}
+input, button, textarea, select, option, optgroup {
+font-family: inherit;
+font-size: inherit;
+font-style: inherit;
+font-weight: inherit;
+}
+pre {
+white-space: pre-wrap;
+word-wrap: break-word;
+}
+a {
+  text-decoration: none;
+}
+a:link {
+  color: #37a;
+}
+a:hover {
+color: #fff;
+background-color: #37a;
+}
+a:visited {
+  color: #669;
+}
+a:active {
+  color: #fff;
+  background-color: #f93;
+}
+a img {
+  border-width: 0;
+  vertical-align: middle;
+}
+body, td, th {
+  font: 12px Helvetica, Arial, sans-serif;
+  line-height: 1.62;
+}
+textarea {
+  resize: none;
+  font-family: Arial;
+  overflow: auto;
+}
+input[type=text]:focus, input[type=password]:focus, textarea:focus {
+  outline: none;
+}
+ol{
+  padding: 0 0 0 20px;
+}
+input {
+  font-size: 12px;
+}
+body {
+  padding-top: 30px;
+  margin: 0 auto;
+}
+div {
+  display: block;
+}
+h2 {
+  font: 15px Arial, Helvetica, sans-serif;
+  color: #072;
+  margin: 0 0 12px 0;
+  line-height: 150%;
+}
+.pl {
+  font: 12px/150% Arial, Helvetica, sans-serif;
+  color: #666666;
+}
+.pl .c {
+  font-size: 10px;
+  color: red;
+}
+.site-nav-bt img {
+  vertical-align: top;
+  margin-top: 7px;
+}
+.list li {
+    display: inline-block;
+    width: 24.2%;
+    vertical-align: top;
+    text-align: center;
+    font-size: 12px;
+    letter-spacing: normal;
+    word-spacing: normal;
+}
+.rating {
+ margin: 0 0 4px 4px;
+  color: #e09015;
+
+}
+.sidenav .section-title a{
+  font-size: 24px;
+}
+.sidenav {
+  display: inline-block;
+}
+.sidenav .side-links {
+  font-size: 14px;
+  line-height: 2em;
+}
+
+
+
+
+
+
+
+
+
+
